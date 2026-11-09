@@ -1,3 +1,7 @@
+## 项目固定版本
+
+`1.1-adaptation.1` 保留 jmmd 当前使用、且与 httg 一致的 1.1 源码基线。最低 iOS 15.0；本次发布用于远端源码管理，不额外修改手势或导航栏逻辑。接入与维护见 [INTEGRATION.md](INTEGRATION.md)。以下保留上游文档。
+
 # FDFullscreenPopGesture
 An UINavigationController's category to enable fullscreen pop gesture in an iOS7+ system style with AOP.
 
